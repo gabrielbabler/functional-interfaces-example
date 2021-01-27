@@ -4,9 +4,9 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>LASTEST</version> <!-- lookup parent from repository -->
+		<version>LATEST</version> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.portoseg</groupId>
+	<groupId>com.gbabler</groupId>
 	<artifactId>functional-interfaces</artifactId>
 	<version>1.0.0</version>
 	<name>functional-interfaces</name>
